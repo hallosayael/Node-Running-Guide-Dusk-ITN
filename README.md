@@ -41,10 +41,6 @@ sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2.16_amd64.deb
 ```
 ## 1. Instal CLI
 
-<p align="center">
-  <img height="auto" width="auto" src="https://user-images.githubusercontent.com/38981255/202432162-68e7828e-e917-4636-83a4-5c7969356313.png">
-</p>
-
 ```
 sudo apt-get update
 sudo apt install libssl-dev

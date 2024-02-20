@@ -3,6 +3,7 @@ Node Running Guide Dusk ITN - Phase 2 (20 Feb - 15 Mar 2024)
 <p align="center">
   <img height="150" height="auto" src="https://dusk-cms.ams3.digitaloceanspaces.com/16_9_ITN_Set_Up_1eb7e84acb.png">
 </p>
+
 ## Referensi
 
 [Dokumen resmi](https://dusk.network/pages/incentivized-testnet#Wallet)

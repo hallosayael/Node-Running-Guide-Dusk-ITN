@@ -89,32 +89,32 @@ sudo ufw allow 9000:9005/udp
 sudo ufw enable
 ```
 ## 5. # Import Pharse Wallet
-'''
+```
 rusk-wallet restore
-'''
+```
 ## 6. Paste Pharse Kalian (Pastikan Huruf Kecil Semua)
 Masukan Password Bebas 2x
 ## 7. Jalankan Kode di Bawah
-'''
+```
 rusk-wallet export -d /opt/dusk/conf -n consensus.keys
-'''
+```
 Masukan password lagi 2x
-'''
+```
 sh /opt/dusk/bin/setup_consensus_pwd.sh
-'''
+```
 Masukan Password Lagi Samain Aja
 ## 8. Start Node
-'''
+```
 service rusk start
-'''
+```
 ## Check log node
-'''
+```
 tail -f /var/log/rusk.log
-'''
+```
 ## Check Wallet
-'''
+```
 rusk-wallet
-'''
+```
 ➖ Pilih Acces Your Wallet dan Enter
 ➖ Masukan Password (Pastikan Address Kalian Sama Dengan Yang di Website)
 ➖ Gunakan Arah Atas Bawa Untuk Pindah Menu dan Enter Untuk Eksekusi

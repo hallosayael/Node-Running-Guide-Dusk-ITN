@@ -88,7 +88,7 @@ sudo ufw allow 8080
 sudo ufw allow 9000:9005/udp
 sudo ufw enable
 ```
-## 5. # Import Pharse Wallet
+## 5. Import Pharse Wallet
 ```
 rusk-wallet restore
 ```
@@ -115,8 +115,8 @@ tail -f /var/log/rusk.log
 ```
 rusk-wallet
 ```
-➖ Pilih Acces Your Wallet dan Enter
-➖ Masukan Password (Pastikan Address Kalian Sama Dengan Yang di Website)
-➖ Gunakan Arah Atas Bawa Untuk Pindah Menu dan Enter Untuk Eksekusi
+- Pilih Acces Your Wallet dan Enter
+- Masukan Password (Pastikan Address Kalian Sama Dengan Yang di Website)
+- Gunakan Arah Atas Bawa Untuk Pindah Menu dan Enter Untuk Eksekusi
 
 

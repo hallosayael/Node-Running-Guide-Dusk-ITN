@@ -51,7 +51,7 @@ sudo apt-get install -y tar wget curl
 wget https://github.com/dusk-network/wallet-cli/releases/download/v0.13.0/ruskwallet0.13.0-linux-x64-libssl3.tar.gz
 tar -xf ruskwallet0.13.0-linux-x64-libssl3.tar.gz
 cd rusk-wallet0.13.0-linux-x64-libssl3
-./rusk-wallet --state http://127.0.0.1:8585
+./rusk-wallet --state http://127.0.0.1:8080
 ```
 
 ## 2. Create Wallet

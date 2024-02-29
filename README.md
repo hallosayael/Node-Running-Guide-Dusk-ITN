@@ -80,7 +80,7 @@ cd rusk-wallet0.13.0-linux-x64-libssl3
 ## 3. Instal Rusk-Node (update 23 Feb)
 ```
 cd
-curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.4/itn-installer.sh | sudo sh
+curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.5/itn-installer.sh | sudo sh
 ```
 ## 4. Buka Port 
 ```

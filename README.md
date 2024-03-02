@@ -108,6 +108,14 @@ Masukan Password Lagi Samain Aja
 ```
 service rusk start
 ```
+## 9. Cek tinggi block
+```
+ruskquery block-height
+```
+## 10. Cek status rusk
+```
+service rusk status
+```
 ## Check log node
 ```
 tail -f /var/log/rusk.log

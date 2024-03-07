@@ -77,7 +77,7 @@ cd rusk-wallet0.13.0-linux-x64-libssl3
 - Balik ke VPS Arah Bawah Pilih `Back` dan `Enter`
 - Arah Bawah Lagi Pilih `Exit` dan `Enter`
   
-## 3. Instal Rusk-Node (update 05 Maret)
+## 3. Instal Rusk-Node (update 07 Maret)
 ```
 cd
 curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.7/itn-installer.sh | sudo sh
